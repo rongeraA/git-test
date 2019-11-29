@@ -8,4 +8,7 @@ public class FirstFile {
         System.out.println("a……");
         System.out.println("a……");
     }
+    public void test(){
+        System.out.println("as");
+    }
 }
