@@ -9,6 +9,6 @@ public class FirstFile {
         System.out.println("a……");
     }
     public void test(){
-        System.out.println("as");
+        System.out.println("as啊是");
     }
 }
